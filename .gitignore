@@ -1,0 +1,8 @@
+/venv/
+.idea/
+
+/build/
+/dist/
+/src/gyomu-flask.egg-info/
+/.coverage
+/htmlcov/
